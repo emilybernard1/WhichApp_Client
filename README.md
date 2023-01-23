@@ -38,6 +38,8 @@ As a user I want the ability to...
 - An app that looks and functions on a basic level with seeded data if not an API; with a navigation bar and a search box
 
 ## Stretch	Goals
+- Have thumbnails of the show or movie that are clickable to find out more info on it
+
 - Allow users to keep a list of their favorite shows for easy reference
 
 - Allow users to opt into notifications of when a given show/movie will stop streaming on its current app
