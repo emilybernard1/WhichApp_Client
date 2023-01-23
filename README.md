@@ -1,5 +1,9 @@
 # WhichApp_Client
 The frontend side of an app that finds where a show/movie is streamable  
+
+## Deployed Link
+TBD
+
 ## Overview
 This is a full stack application where users can search a show or movie and find out which app(s) they can stream it on and whether there is an addition cost apart from a subscription.
 
@@ -10,14 +14,20 @@ The backend repo is here: https://github.com/OnePartHarmony/WhichApp_Server
 - Harmony Brown https://github.com/OnePartHarmony
 - Lauren Routier https://github.com/OHammerpaw
 
-## Deployed Link
-TBD
+## Team Roles
+- Emily Bernard: Full Stack Lead, Project Manager
+- Harmony Brown: Back End Lead
+- Lauren Routier: Front End Lead
 
 ## Technology Used
   - HTML
   - CSS
   - Vue
   - TypeScript
+
+## Other Tools Used
+- Trello
+- Canva 
 
 ## User Stories
 As a user I want the ability to...
