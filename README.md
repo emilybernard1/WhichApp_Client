@@ -1,5 +1,7 @@
 # WhichApp_Client
-The frontend side of an app that finds where a show/movie is streamable
+The frontend side of an app that finds where a show/movie is streamable  
+
+The backend repo is here: https://github.com/OnePartHarmony/WhichApp_Server
 
 ## Team Members
 - Emily Bernard https://github.com/emilybernard1
