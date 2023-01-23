@@ -29,36 +29,43 @@ TBD
 
 ## User Stories
 As a user I want the ability to...
-  - sign in  or register
+  - sign in or register
+  - sign out
   - search a show or movie
   - see where that show or movie is streamed 
-  - keep a list of my favorite shows for easy reference
-  - opt into notifications of when a given show/movie will stop streaming on its current app
+  
+## MVP
+- An app that looks and functions on a basic level with seeded data if not an API; with a navigation bar and a search box
 
 ## Stretch	Goals
-- Allow users to also search for sporting events such as boxing matches
+- Allow users to keep a list of their favorite shows for easy reference
+
+- Allow users to opt into notifications of when a given show/movie will stop streaming on its current app
+
+- Denote base price for a subscription to each streaming service that a show or movie is found on as part of the info populated in the search results
+
+- Give users the capability to store info on which streaming services they already subscribe to so that when they search for a show, they will be told whether they already subscribe
 
 ## Version 2
+- Allow users to also search for sporting events such as boxing matches
+
+## Version 3
 - Live Streaming capabilites for sporting events
   
 ## Application Wire Frames
 <!-- ![wireframe1](/images/WF1-SantasHelper.png "WireFrame1") -->
 
-
 ## Schedule
-- Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up Readme's for front and back ends, start ERDs, start wire frames, set up trello board
+- Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up trello board, set up Readme, start wire frames, research on Vue and TypeScript
 - Tuesday 1/24: Polish readme's, research on Vue and TypeScript 
-- Wednesday 1/25: 
-- Thursday 1/26: 
+- Wednesday 1/25: Research on Vue and TypeScript
+- Thursday 1/26: Start getting front-end set up
 - Friday 1/27: 
 - Monday 1/29: 
 - Tuesday 1/31: 
 - Wednesday 2/1: 
 - Thursday 2/2: 
 - Friday 2/3: 
-
-## MVP
-- An app that looks and functions on a basic level; with a navigation bar, a search box, and a place for users to store their favorite shows//movies.
 
 ## Available Scripts
 In the project directory, you can run:
