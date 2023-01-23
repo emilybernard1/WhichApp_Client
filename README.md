@@ -14,7 +14,7 @@ TBD
 
 ## Team Roles
 - Emily Bernard: Full-Stack Lead, Project Manager
-- Harmony Brown: Back-End Lead
+- Harmony Brown: Back-End Lead, Github Manager
 - Lauren Routier: Front-End Lead
 
 ## Technology Used
