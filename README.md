@@ -55,6 +55,7 @@ As a user I want the ability to...
 - Live Streaming capabilites for sporting events
   
 ## Application Wire Frames
+
 ![Home Page](./public/Assets/wf-home.png "HomePageWireFrame")
 ![Search Page](./public/Assets/wf-search.png "SearchPageWireFrame")
 ![Result Page](./public/Assets/wf-result.png "ResultPageWireFrame")
