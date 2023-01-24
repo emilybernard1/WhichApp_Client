@@ -61,9 +61,9 @@ As a user I want the ability to...
 
 ## Schedule
 - Monday 1/23: Brainstorm the idea with the team, decide on roles, set up github repos, decide on tech stack, set up trello board, set up Readme, start wire frames, research on Vue and TypeScript
-- Tuesday 1/24: Polish readme's, research on Vue and TypeScript 
-- Wednesday 1/25: Research on Vue and TypeScript
-- Thursday 1/26: Start getting front-end set up
+- Tuesday 1/24: Start getting front-end set up with server running and do more research on Vue and TypeScript 
+- Wednesday 1/25: 
+- Thursday 1/26: 
 - Friday 1/27: 
 - Monday 1/29: 
 - Tuesday 1/31: 
